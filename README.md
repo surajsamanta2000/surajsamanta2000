@@ -6,7 +6,7 @@
 * 💞️ I’m looking to collaborate on open-source Java/Spring Boot-based backend projects
 * 📫 How to reach me:
 
-  * 📧 Email: mailto:surajsamanta5757@gmail.com
+  * 📧 Email: mailto:surajsamanta961@gmail.com
   * 📱 LinkedIn: linkedin.com/in/suraj-samanta-154570368
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I love solving complex problems and playing cricket in my free time!
