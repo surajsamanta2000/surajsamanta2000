@@ -17,7 +17,7 @@
 
 * **Languages:** Java, SQL
 * **Frameworks:** Spring Boot, Spring MVC, Hibernate
-* **Tools:** Maven, Git, Jenkins, Postman
+* **Tools:** Maven, Git, Jenkins, Postman , Jira , ServiceNow , Splunk , Control-M.
 * **Database:** MySQL, Oracle
 * **Messaging:** Kafka, Zookeeper
 * **Cloud (Learning):** AWS (EC2, S3, RDS)
